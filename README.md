@@ -1,4 +1,8 @@
 ![Tux, Header](https://github.com/hars2112/hars2112/blob/main/header.png?raw=true)
+
+> ## I'm an engineer, 
+ >> ## developer & web designer 
+ 
 <!--
 **hars2112/hars2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
