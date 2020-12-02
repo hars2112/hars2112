@@ -1,5 +1,5 @@
 ### Hi there 👋
-Under Construction 
+- 🌱 I’m currently learning ...
 <!--
 **hars2112/hars2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
