@@ -2,8 +2,8 @@
 
 > ## I'm an Industrial Engineer, 
  >> ## develop & web design enthusiast  
- - 🌱 I’m currently learning Coding, Pythom and Go 
- - 🔭 I’m currently working on website desing 
+###  - 🌱 I’m currently learning Coding, Pythom and Go 
+###  - 🔭 I’m currently working on a website desing 
 <!--
 **hars2112/hars2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
