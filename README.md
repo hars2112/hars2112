@@ -1,4 +1,4 @@
-/https://github.com/hars2112/hars2112/blob/main/header.png?raw=true 👋
+https://github.com/hars2112/hars2112/blob/main/header.png?raw=true 👋
 
 <!--
 **hars2112/hars2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
