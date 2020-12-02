@@ -1,3 +1,11 @@
+```mermaid
+stateDiagram
+    [*] --> First
+    state First {
+        [*] --> second
+        second --> [*]
+    }
+```
 https://github.com/hars2112/hars2112/blob/main/header.png?raw=true 👋
 
 <!--
