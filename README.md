@@ -11,13 +11,11 @@
 
 > ## I'm 35 years old Industrial Engineer working at medical supplies industry, 
 
->> ## develop & web design enthusiast  
+>> ## develop & web design enthusiast
+###  - 🌱 I’m currently learning Pythom and Go 
+###  - 🔭 I’m currently working on a website desing 
 <br><br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-###  - 🌱 I’m currently learning Pythom and Go 
-
-###  - 🔭 I’m currently working on a website desing 
 
 ## Interested in
 <br>
