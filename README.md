@@ -12,11 +12,11 @@
 > ## I'm 35 years old Industrial Engineer working at medical supplies industry, 
 
 >> ## develop & web design enthusiast  
-
+<br><br>
 ###  - 🌱 I’m currently learning Pythom and Go 
 
 ###  - 🔭 I’m currently working on a website desing 
-<br><br>
+
 ## Interested in
 <br>
 <p align="center">
