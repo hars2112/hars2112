@@ -4,7 +4,7 @@
 </div>
 
 
-<p align="center"> 👋 (Open for Hiring)</p>
+## <p align="center"> 👋 (Open for Hiring)</p>
 
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
@@ -18,7 +18,6 @@
 ###  - 🔭 I’m currently working on a website desing 
 <br><br>
 ## Interested in
-<br>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
