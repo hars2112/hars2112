@@ -13,6 +13,7 @@
 
 >> ## develop & web design enthusiast  
 <br><br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ###  - 🌱 I’m currently learning Pythom and Go 
 
@@ -32,7 +33,7 @@
   <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 <br><br>
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 
 
