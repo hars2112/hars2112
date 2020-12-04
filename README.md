@@ -33,7 +33,7 @@
 <br><br>
 
 #### 📫 Reach me:   
-  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/Hrod#6174)
+  [<img src="https://discord.com/channels/434175020856639488/439310048787824640" width="3.5%"/>](https://discord.gg/Hrod#6174)
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Rshector)
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/rodriguezsilvahector/)
   <a href="mailto:rshector@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
