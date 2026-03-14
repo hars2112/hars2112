@@ -41,6 +41,6 @@ I'm a **35-year-old Industrial Engineer** currently working in the medical suppl
 <p align="left">
   <a href="https://www.linkedin.com/in/rodriguezsilvahector/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35px"/></a>
   <a href="https://twitter.com/Rshector"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="35px"/></a>
-  <a href="mailto:rshector@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="35px"/></a>
+  <a href="mailto:harsanalytics@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="35px"/></a>
   <a href="https://discord.gg/k3rkRpdw"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="35px"/></a>
 </p>
